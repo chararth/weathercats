@@ -1,5 +1,5 @@
 // Tutorial by http://youtube.com/CodeExplained
-// api key : 257a432adafc0af11ae05503cba111e7
+// api key : f967223836cad8203a272c039342cb21
 
 
 //ELEMENTS TO DISPLAY
@@ -45,7 +45,7 @@ const KELVIN = 273;
 
 // API KEY
 
-const key = "257a432adafc0af11ae05503cba111e7";
+const key = "f967223836cad8203a272c039342cb21";
 
 // CHECK IF USERS BROWSER SUPPORTS GEOLOCATION
 
